@@ -1,0 +1,153 @@
+    .social-box {
+    display: inline-block;
+    margin: 1px;
+    padding: 1px;
+    border: 2px solid #000000;
+    border-radius: 5px;
+    background-color: #ffffff;
+  
+    }
+
+    .social-box a {
+    text-decoration: none;
+    color: #333;
+    }
+
+    .sublinhado {
+    text-decoration: underline;
+    }
+    .Tam-Imagecv {
+    position: absolute;
+    top: 280px;
+    left: 1190px;
+    }
+    .Tam-link {
+    position: absolute;
+    top: 220px;
+    left: 1150px;
+    }
+    body {
+    background-image: url("C:/xampp/htdocs/programa.jpg"), url("C:/xampp/htdocs/programa.jpg");
+    background-repeat: no-repeat, repeat;
+    background-position: top, top;
+    background-size: auto, auto;
+    
+    
+
+      
+
+    }
+    .container {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 20px;
+      background-color: rgba(23, 2, 214, 0.089);
+    }
+    .container1 {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 20px;
+      background-color: rgba(23, 4, 4, 0.678);
+      position: absolute;
+      top: 8px;
+      left: 1108px;
+      height: 1100px;
+      width: 200px;
+    }
+    h1 {
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 300%;
+      text-align: center;
+      color: #ffffff;
+    }
+    .parag {
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 100%;
+      text-align: center;
+      color: #ffffff;
+    }
+    .download{ 
+      color: #ffffff;
+      font-size: 90%;
+      font-family: Arial, Helvetica, sans-serif;
+      position: absolute;
+      top: 235px;
+      right:40px;
+    }
+    .search-bar {
+    position: absolute;
+    top: 40px;
+    right: 1px;
+    z-index: 1;
+    width: 200px;
+    }
+    .bandeira {     
+      position: absolute;
+      top: 80px;
+      right: 1px;
+      height: 1100px;
+      width: 200px;
+    
+      
+    
+    }
+
+    .jokempo-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 300px;
+    left: 250px;
+    max-width: 100%;
+    height: auto;
+    }
+
+    .jokempo-container2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 300px;
+    left: 748px;
+    max-width: 100%;
+    height: auto;
+    }
+    .jokempo-container3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 500px;
+    left: 248px;
+    max-width: 100%;
+    height: auto;
+    
+    }
+
+    .jokempo-container4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 500px;
+    left: 748px;
+    max-width: 100%;
+    height: auto;
+    
+    }
+    
+    
+    .btn {
+      border: 1px solid rgb(0, 0, 0); 
+      padding: 5px 15px; 
+      background-image: linear-gradient(to right, #eb5b08, #eb5b0867
+      ); 
+      margin-top: 125px;
+      margin-left: 15px;
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 80%;
+      
+    }
+    
+    
