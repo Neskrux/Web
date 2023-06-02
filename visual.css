@@ -27,7 +27,7 @@
     left: 1150px;
     }
     body {
-    background-image: url("C:/xampp/htdocs/programa.jpg"), url("C:/xampp/htdocs/programa.jpg");
+    background-image: url("programa.jpg"), url("programa.jpg");
     background-repeat: no-repeat, repeat;
     background-position: top, top;
     background-size: auto, auto;
